@@ -789,6 +789,36 @@
       "first_seen": "2026-10-06T17:07+01:00",
       "area": "Leyton",
       "pcm": 2400
+    },
+    "26470100": {
+      "first_seen": "2026-10-06T22:48+01:00",
+      "area": "Stoke Newington",
+      "pcm": 1950
+    },
+    "94000476": {
+      "first_seen": "2026-10-06T22:48+01:00",
+      "area": "Stoke Newington",
+      "pcm": 2495
+    },
+    "94003338": {
+      "first_seen": "2026-10-06T22:48+01:00",
+      "area": "Leytonstone",
+      "pcm": 1850
+    },
+    "91753554": {
+      "first_seen": "2026-10-06T22:48+01:00",
+      "area": "Bow",
+      "pcm": 2250
+    },
+    "93998631": {
+      "first_seen": "2026-10-06T22:48+01:00",
+      "area": "Bow",
+      "pcm": 1900
+    },
+    "93996966": {
+      "first_seen": "2026-10-06T22:48+01:00",
+      "area": "Bow",
+      "pcm": 2100
     }
   },
   "seeded_areas": [
@@ -801,9 +831,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 5,
-    "sent": 6,
-    "skipped": 9
+    "checks": 6,
+    "sent": 11,
+    "skipped": 10
   },
   "last_summary": "2026-10-06"
 }
