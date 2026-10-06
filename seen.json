@@ -1,0 +1,657 @@
+{
+  "seen": {
+    "93303357": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2100
+    },
+    "93984201": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1902
+    },
+    "93982761": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1850
+    },
+    "93977370": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2200
+    },
+    "151047443": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1950
+    },
+    "93957312": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2500
+    },
+    "93952065": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2349
+    },
+    "93948600": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2200
+    },
+    "93933384": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2600
+    },
+    "93931806": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2250
+    },
+    "93925236": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1850
+    },
+    "93910038": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1950
+    },
+    "93887382": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2450
+    },
+    "93894663": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2600
+    },
+    "171243344": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2600
+    },
+    "93864843": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2200
+    },
+    "93858204": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2232
+    },
+    "93761031": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2350
+    },
+    "93822285": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1850
+    },
+    "93047694": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2325
+    },
+    "93813609": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2300
+    },
+    "93559848": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2500
+    },
+    "93818976": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2450
+    },
+    "93788820": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 2300
+    },
+    "93785598": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bethnal Green",
+      "pcm": 1950
+    },
+    "93959634": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2390
+    },
+    "93983475": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2475
+    },
+    "93981669": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2460
+    },
+    "93980457": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1950
+    },
+    "93972651": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1800
+    },
+    "93708318": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1800
+    },
+    "93966552": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2350
+    },
+    "93958191": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2300
+    },
+    "93958158": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2280
+    },
+    "93944946": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1850
+    },
+    "93943164": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2300
+    },
+    "93936723": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2365
+    },
+    "93935994": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2400
+    },
+    "93935934": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2300
+    },
+    "93934509": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2325
+    },
+    "93934950": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 3175
+    },
+    "93934869": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 3055
+    },
+    "93934713": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2900
+    },
+    "93934590": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 3175
+    },
+    "93934422": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2850
+    },
+    "92933487": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1800
+    },
+    "93916899": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2100
+    },
+    "93913623": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2100
+    },
+    "92691021": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2100
+    },
+    "93899838": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2280
+    },
+    "93899154": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2150
+    },
+    "93899151": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2610
+    },
+    "93899148": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 3554
+    },
+    "93899145": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 3505
+    },
+    "93899142": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 3400
+    },
+    "93898434": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1800
+    },
+    "175024775": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 2500
+    },
+    "134086769": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Walthamstow",
+      "pcm": 1800
+    },
+    "93169335": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 1900
+    },
+    "93775524": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 1900
+    },
+    "93658887": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 1800
+    },
+    "93570738": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 1900
+    },
+    "93454113": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 2300
+    },
+    "93227502": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 1900
+    },
+    "93630489": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 2000
+    },
+    "92870241": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 2000
+    },
+    "92734467": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 1850
+    },
+    "92020098": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Forest Gate",
+      "pcm": 2250
+    },
+    "93046959": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2250
+    },
+    "93973095": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2470
+    },
+    "93973050": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2470
+    },
+    "93972819": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2315
+    },
+    "93184704": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2150
+    },
+    "92826798": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2450
+    },
+    "93964350": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2250
+    },
+    "93948987": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2500
+    },
+    "93948411": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2102
+    },
+    "93946149": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2450
+    },
+    "93941070": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2600
+    },
+    "93923703": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 1900
+    },
+    "93916677": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2145
+    },
+    "93905517": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 1900
+    },
+    "93762696": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2500
+    },
+    "93905451": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2200
+    },
+    "93900567": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2400
+    },
+    "93892716": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2500
+    },
+    "164774414": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 1850
+    },
+    "93880188": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2300
+    },
+    "93879846": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2025
+    },
+    "93879768": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2200
+    },
+    "93879714": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2300
+    },
+    "93877053": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2600
+    },
+    "93875091": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Bow",
+      "pcm": 2150
+    },
+    "93979326": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2500
+    },
+    "93990405": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2350
+    },
+    "93979737": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2400
+    },
+    "93485778": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 1850
+    },
+    "93713220": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 1800
+    },
+    "93962673": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2500
+    },
+    "93932253": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 1850
+    },
+    "93919161": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2200
+    },
+    "93919137": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2100
+    },
+    "93899886": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2500
+    },
+    "93874212": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2600
+    },
+    "93870147": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2395
+    },
+    "93853275": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2500
+    },
+    "8664120": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "93839550": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "93813417": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2450
+    },
+    "93801819": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 1900
+    },
+    "93757986": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2250
+    },
+    "161155901": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "93726669": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2325
+    },
+    "93671481": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2400
+    },
+    "93668862": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "93646800": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "92664819": {
+      "first_seen": "2026-10-06T16:17",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "144541268": {
+      "first_seen": "2026-10-06T16:24",
+      "area": "Stoke Newington",
+      "pcm": 2300
+    },
+    "93991980": {
+      "first_seen": "2026-10-06T16:24",
+      "area": "Stoke Newington",
+      "pcm": 2200
+    },
+    "93840456": {
+      "first_seen": "2026-10-06T16:24",
+      "area": "Bow",
+      "pcm": 2250
+    },
+    "93305328": {
+      "first_seen": "2026-10-06T16:25",
+      "area": "Walthamstow",
+      "pcm": 2300
+    },
+    "93866124": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Walthamstow",
+      "pcm": 2450
+    },
+    "93867780": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Walthamstow",
+      "pcm": 3215
+    },
+    "93867045": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Walthamstow",
+      "pcm": 2950
+    },
+    "93866976": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Walthamstow",
+      "pcm": 2970
+    },
+    "93866736": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Walthamstow",
+      "pcm": 2835
+    },
+    "92909493": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Bethnal Green",
+      "pcm": 2450
+    },
+    "92919705": {
+      "first_seen": "2026-10-06T16:35",
+      "area": "Bow",
+      "pcm": 2400
+    }
+  },
+  "seeded_areas": [
+    "Bethnal Green",
+    "Walthamstow",
+    "Forest Gate",
+    "Bow",
+    "Stoke Newington"
+  ],
+  "day": {
+    "checks": 3,
+    "sent": 4,
+    "skipped": 7
+  },
+  "last_summary": "2026-10-06"
+}

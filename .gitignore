@@ -1,0 +1,5 @@
+flat_watch.log
+debug_*.html
+__pycache__/
+*.tmp
+.DS_Store

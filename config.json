@@ -1,0 +1,24 @@
+{
+  "areas": {
+    "Walthamstow": "REGION^85310",
+    "Stoke Newington": "REGION^85413",
+    "Bethnal Green": "REGION^85224",
+    "Bow": "REGION^87495",
+    "Forest Gate": "REGION^70426"
+  },
+  "min_price": 1800,
+  "max_price": 2600,
+  "min_beds": 1,
+  "max_beds": 2,
+  "ideal_min_sqm": 60,
+  "skip_if_stated_below_sqm": 55,
+  "radius_miles": 0.0,
+  "check_every_minutes": 8,
+  "pause_overnight": {
+    "from_hour": 0,
+    "to_hour": 6
+  },
+  "daily_summary_hour": 9,
+  "ntfy_server": "https://ntfy.sh",
+  "ntfy_topic": ""
+}

@@ -1,0 +1,65 @@
+name: Flat watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # GitHub's shortest interval; runs often start a few minutes late
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = a normal check, test = show what it reads and send a sample notification"
+        type: choice
+        options: [check, test]
+        default: check
+
+permissions:
+  contents: write   # lets the job save seen.json back to the repository
+
+concurrency:
+  group: flat-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      MODE: ${{ inputs.mode || 'check' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Rightmove
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ "$MODE" = "test" ]; then
+            python3 flat_watch.py --test
+          else
+            python3 flat_watch.py --once
+          fi
+
+      - name: Save seen listings
+        if: always() && env.MODE != 'test'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          [ -f seen.json ] && git add seen.json
+          [ -f matches.csv ] && git add matches.csv
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+            exit 0
+          fi
+          git commit -q -m "Update seen listings"
+          for attempt in 1 2 3; do
+            git pull -q --rebase origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            sleep 5
+          done
+          echo "Could not save seen.json" && exit 1
+
+      - name: Keep any pages that couldn't be read
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-pages
+          path: debug_*.html
+          if-no-files-found: ignore
+          retention-days: 7
