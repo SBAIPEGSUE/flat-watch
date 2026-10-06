@@ -2,7 +2,7 @@ name: Flat watch
 
 on:
   schedule:
-    - cron: "2-59/5 * * * *"   # every 5 min (:02, :07, ...), off the busy top of the hour; runs can start late
+    - cron: "3-59/5 * * * *"   # every 5 min (:02, :07, ...), off the busy top of the hour; runs can start late
   workflow_dispatch:
     inputs:
       mode:
