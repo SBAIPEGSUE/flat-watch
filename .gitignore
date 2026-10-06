@@ -3,3 +3,4 @@ debug_*.html
 __pycache__/
 *.tmp
 .DS_Store
+output.txt

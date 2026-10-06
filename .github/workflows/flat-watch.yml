@@ -25,17 +25,28 @@ jobs:
     env:
       MODE: ${{ inputs.mode || 'check' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Check Rightmove
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
+          set +e
           if [ "$MODE" = "test" ]; then
-            python3 flat_watch.py --test
+            python3 flat_watch.py --test > output.txt 2>&1
           else
-            python3 flat_watch.py --once
+            python3 flat_watch.py --once > output.txt 2>&1
           fi
+          status=$?
+          cat output.txt
+          # Show the output on the run's summary page when testing or when something went wrong
+          text=$(tail -c 3500 output.txt | sed -e 's/%/%25/g' -e 's/\r//g' | awk '{printf "%s%%0A", $0}')
+          if [ $status -ne 0 ]; then
+            echo "::error title=Flat watch output::$text"
+          elif [ "$MODE" = "test" ]; then
+            echo "::notice title=Test output::$text"
+          fi
+          exit $status
 
       - name: Save seen listings
         if: always() && env.MODE != 'test'
@@ -57,7 +68,7 @@ jobs:
 
       - name: Keep any pages that couldn't be read
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: debug-pages
           path: debug_*.html
