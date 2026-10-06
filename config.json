@@ -4,7 +4,9 @@
     "Stoke Newington": "REGION^85413",
     "Bethnal Green": "REGION^85224",
     "Bow": "REGION^87495",
-    "Forest Gate": "REGION^70426"
+    "Forest Gate": "REGION^70426",
+    "Leyton": "REGION^87520",
+    "Leytonstone": "REGION^87521"
   },
   "min_price": 1800,
   "max_price": 2600,
