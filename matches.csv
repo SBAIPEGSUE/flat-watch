@@ -15,3 +15,5 @@ found_at,area,price_pcm,beds,sqm,size_source,address,available,furnish,agent,url
 2026-10-07T10:21+01:00,Stoke Newington,1950,1,,,"Geldeston Road, London, E5",Now,Unfurnished,"OpenRent, London",https://www.rightmove.co.uk/properties/92168304
 2026-10-07T10:51+01:00,Walthamstow,2533,1,56,listing,"Selbourne Road, Walthamstow, E17",Ask agent,,"Foxtons, Walthamstow",https://www.rightmove.co.uk/properties/94017243
 2026-10-07T10:51+01:00,Bethnal Green,2100,1,69,listing,"Sunlight Square, London",17/11/2026,,"Elms Estates, Bethnal Green",https://www.rightmove.co.uk/properties/94017753
+2026-10-07T11:01+01:00,Walthamstow,2430,1,55,listing,"The Eades, 11 Selborne Road London E17",Now,Unfurnished,"Hamptons, Build to Rent",https://www.rightmove.co.uk/properties/93803766
+2026-10-07T11:01+01:00,Bow,2600,2,76,listing,"Nicholson Square, Bow, London, E3",09/11/2026,Furnished,"Keatons, Bow",https://www.rightmove.co.uk/properties/93646755
