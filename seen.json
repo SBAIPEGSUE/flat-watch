@@ -1570,5 +1570,7 @@
     "sent": 12,
     "skipped": 1
   },
-  "last_summary": "2026-10-10"
+  "last_summary": "2026-10-10",
+  "blocked_level": 1,
+  "blocked_until": 1791660980.5714312
 }
