@@ -1709,6 +1709,11 @@
       "first_seen": "2026-10-12T11:41+01:00",
       "area": "Walthamstow",
       "pcm": 2199
+    },
+    "94191117": {
+      "first_seen": "2026-10-12T12:01+01:00",
+      "area": "Forest Gate",
+      "pcm": 1900
     }
   },
   "seeded_areas": [
@@ -1721,8 +1726,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 18,
-    "sent": 6,
+    "checks": 19,
+    "sent": 7,
     "skipped": 15
   },
   "last_summary": "2026-10-12"
