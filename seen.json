@@ -1869,6 +1869,21 @@
       "first_seen": "2026-10-12T17:01+01:00",
       "area": "Bethnal Green",
       "pcm": 2350
+    },
+    "115914266": {
+      "first_seen": "2026-10-12T17:10+01:00",
+      "area": "Bow",
+      "pcm": 2350
+    },
+    "94217109": {
+      "first_seen": "2026-10-12T17:10+01:00",
+      "area": "Bethnal Green",
+      "pcm": 1800
+    },
+    "94218603": {
+      "first_seen": "2026-10-12T17:11+01:00",
+      "area": "Forest Gate",
+      "pcm": 1950
     }
   },
   "seeded_areas": [
@@ -1881,8 +1896,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 49,
-    "sent": 25,
+    "checks": 50,
+    "sent": 28,
     "skipped": 28
   },
   "last_summary": "2026-10-12"
