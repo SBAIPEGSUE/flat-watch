@@ -1884,6 +1884,11 @@
       "first_seen": "2026-10-12T17:11+01:00",
       "area": "Forest Gate",
       "pcm": 1950
+    },
+    "94218534": {
+      "first_seen": "2026-10-12T17:21+01:00",
+      "area": "Leytonstone",
+      "pcm": 1995
     }
   },
   "seeded_areas": [
@@ -1896,8 +1901,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 50,
-    "sent": 28,
+    "checks": 51,
+    "sent": 29,
     "skipped": 28
   },
   "last_summary": "2026-10-12"
