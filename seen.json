@@ -1834,6 +1834,21 @@
       "first_seen": "2026-10-12T16:10+01:00",
       "area": "Leyton",
       "pcm": 1975
+    },
+    "94212456": {
+      "first_seen": "2026-10-12T16:20+01:00",
+      "area": "Forest Gate",
+      "pcm": 2500
+    },
+    "94211829": {
+      "first_seen": "2026-10-12T16:21+01:00",
+      "area": "Walthamstow",
+      "pcm": 3175
+    },
+    "94211664": {
+      "first_seen": "2026-10-12T16:21+01:00",
+      "area": "Walthamstow",
+      "pcm": 3100
     }
   },
   "seeded_areas": [
@@ -1846,9 +1861,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 44,
+    "checks": 45,
     "sent": 22,
-    "skipped": 24
+    "skipped": 27
   },
   "last_summary": "2026-10-12"
 }
