@@ -2039,6 +2039,11 @@
       "first_seen": "2026-10-13T14:01+01:00",
       "area": "Forest Gate",
       "pcm": 1950
+    },
+    "94256190": {
+      "first_seen": "2026-10-13T14:40+01:00",
+      "area": "Bow",
+      "pcm": 1850
     }
   },
   "seeded_areas": [
@@ -2051,9 +2056,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 33,
+    "checks": 34,
     "sent": 17,
-    "skipped": 3
+    "skipped": 4
   },
   "last_summary": "2026-10-13"
 }
