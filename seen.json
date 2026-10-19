@@ -2894,6 +2894,11 @@
       "first_seen": "2026-10-19T10:40+01:00",
       "area": "Bethnal Green",
       "pcm": 2600
+    },
+    "94457805": {
+      "first_seen": "2026-10-19T12:20+01:00",
+      "area": "Stoke Newington",
+      "pcm": 2395
     }
   },
   "seeded_areas": [
@@ -2906,8 +2911,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 19,
-    "sent": 6,
+    "checks": 20,
+    "sent": 7,
     "skipped": 0
   },
   "last_summary": "2026-10-19"
