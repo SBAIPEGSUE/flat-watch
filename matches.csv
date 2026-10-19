@@ -233,3 +233,4 @@ found_at,area,price_pcm,beds,sqm,size_source,address,available,furnish,agent,url
 2026-10-19T10:41+01:00,Bethnal Green,2600,2,93,listing,"Bethnal Green Road, London, E2",Now,Unfurnished,"Ellis & Co, Bethnal Green",https://www.rightmove.co.uk/properties/93711768
 2026-10-19T12:21+01:00,Stoke Newington,2395,2,57,description,"Stoke Newington Church Street, London, N16",Now,Part furnished,"Hunters, Stoke Newington",https://www.rightmove.co.uk/properties/94457805
 2026-10-19T12:41+01:00,Bethnal Green,2500,2,,,"Bethnal Green Road, Bethnal Green, E2",Ask agent,,"Greenlands, London",https://www.rightmove.co.uk/properties/94459599
+2026-10-19T12:51+01:00,Bow,1900,1,56,listing,"Merhchant Street, E3, Bow, London, E3",Ask agent,Furnished,"Foxtons, Bow",https://www.rightmove.co.uk/properties/94459848
