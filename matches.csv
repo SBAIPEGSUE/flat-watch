@@ -251,3 +251,5 @@ found_at,area,price_pcm,beds,sqm,size_source,address,available,furnish,agent,url
 2026-10-19T19:31+01:00,Bow,2200,2,64,listing,"Priestman Point, 2 Rainhill Way, Bow, London, E3",21/11/2026,Furnished,"Keatons, Bow",https://www.rightmove.co.uk/properties/94487157
 2026-10-20T12:21+01:00,Stoke Newington,2395,2,,,"Evering Road, London, N16",16/11/2026,Unfurnished,"Hunters, Stoke Newington",https://www.rightmove.co.uk/properties/93612240
 2026-10-20T12:31+01:00,Bow,2500,2,80,listing,"Wick Lane, London",Now,Furnished,"Hammonds, London",https://www.rightmove.co.uk/properties/93765054
+2026-10-20T12:51+01:00,Walthamstow,2125,1,59,description,"Forest Road, Walthamstow",Ask agent,Furnished,"Dexters, Hackney Central",https://www.rightmove.co.uk/properties/94493415
+2026-10-20T12:51+01:00,Stoke Newington,2250,1,,,"Mildmay Road, London, N1",01/12/2026,Furnished,"NEILSON & BAUER LTD, Islington",https://www.rightmove.co.uk/properties/94494792
