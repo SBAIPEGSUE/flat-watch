@@ -3086,11 +3086,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 98,
+    "checks": 99,
     "sent": 24,
     "skipped": 18
   },
-  "last_summary": "2026-10-19",
-  "blocked_level": 1,
-  "blocked_until": 1792477661.999438
+  "last_summary": "2026-10-19"
 }
