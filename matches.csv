@@ -262,3 +262,4 @@ found_at,area,price_pcm,beds,sqm,size_source,address,available,furnish,agent,url
 2026-10-20T13:41+01:00,Walthamstow,2420,1,56,listing,"The Eades, 11 Selborne Road London E17",Now,Furnished,"Hamptons, Canary Wharf",https://www.rightmove.co.uk/properties/94509480
 2026-10-20T13:51+01:00,Bow,2600,2,60,listing,"Jefferson Plaza, Hackney",15/12/2026,Furnished,"The Stow Brothers, Hackney",https://www.rightmove.co.uk/properties/94510044
 2026-10-20T14:11+01:00,Bethnal Green,1900,1,43,description,"Kirkwall Place, Bethnal Green",Ask agent,Unfurnished,"Dexters, Shoreditch",https://www.rightmove.co.uk/properties/94511508
+2026-10-20T14:21+01:00,Bow,2150,2,67,listing,"Geoff Cade Way, Bow, London, E3",Ask agent,Furnished,"Foxtons, Bow",https://www.rightmove.co.uk/properties/94512951
