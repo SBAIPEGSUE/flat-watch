@@ -3649,6 +3649,11 @@
       "first_seen": "2026-10-23T07:11+01:00",
       "area": "Bethnal Green",
       "pcm": 1990
+    },
+    "94038201": {
+      "first_seen": "2026-10-23T08:31+01:00",
+      "area": "Bow",
+      "pcm": 2570
     }
   },
   "seeded_areas": [
@@ -3661,8 +3666,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 108,
-    "sent": 25,
+    "checks": 109,
+    "sent": 26,
     "skipped": 9
   },
   "last_summary": "2026-10-22"
