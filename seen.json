@@ -3820,10 +3820,6 @@
     "Leytonstone",
     "Leyton"
   ],
-  "day": {
-    "checks": 110,
-    "sent": 18,
-    "skipped": 13
-  },
-  "last_summary": "2026-10-23"
+  "day": {},
+  "last_summary": "2026-10-24"
 }
