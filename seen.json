@@ -3849,6 +3849,41 @@
       "first_seen": "2026-10-24T23:10+01:00",
       "area": "Leytonstone",
       "pcm": 2100
+    },
+    "94710153": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 2150
+    },
+    "94710150": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 2095
+    },
+    "94710147": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 2210
+    },
+    "94710144": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 2530
+    },
+    "94710141": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 3554
+    },
+    "94710132": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 3400
+    },
+    "94710138": {
+      "first_seen": "2026-10-25T13:21+00:00",
+      "area": "Walthamstow",
+      "pcm": 3505
     }
   },
   "seeded_areas": [
@@ -3861,9 +3896,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 26,
-    "sent": 0,
-    "skipped": 0
+    "checks": 27,
+    "sent": 1,
+    "skipped": 6
   },
   "last_summary": "2026-10-25"
 }
