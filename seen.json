@@ -4034,6 +4034,11 @@
       "first_seen": "2026-10-26T19:21+00:00",
       "area": "Walthamstow",
       "pcm": 2150
+    },
+    "94756227": {
+      "first_seen": "2026-10-26T20:01+00:00",
+      "area": "Stoke Newington",
+      "pcm": 1865
     }
   },
   "seeded_areas": [
@@ -4046,9 +4051,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 67,
+    "checks": 68,
     "sent": 15,
-    "skipped": 11
+    "skipped": 12
   },
   "last_summary": "2026-10-26"
 }
