@@ -3969,6 +3969,11 @@
       "first_seen": "2026-10-26T15:50+00:00",
       "area": "Bow",
       "pcm": 2100
+    },
+    "93217101": {
+      "first_seen": "2026-10-26T16:10+00:00",
+      "area": "Bow",
+      "pcm": 2500
     }
   },
   "seeded_areas": [
@@ -3981,8 +3986,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 43,
-    "sent": 11,
+    "checks": 44,
+    "sent": 12,
     "skipped": 2
   },
   "last_summary": "2026-10-26"
