@@ -4390,10 +4390,6 @@
     "Leytonstone",
     "Leyton"
   ],
-  "day": {
-    "checks": 109,
-    "sent": 25,
-    "skipped": 22
-  },
-  "last_summary": "2026-10-28"
+  "day": {},
+  "last_summary": "2026-10-29"
 }
