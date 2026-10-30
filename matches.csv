@@ -443,3 +443,5 @@ found_at,area,price_pcm,beds,sqm,size_source,address,available,furnish,agent,url
 2026-10-30T14:51+00:00,Bow,2100,2,,,"Navigation Road, E3",Ask agent,Furnished,"Iconia London, Canary Wharf",https://www.rightmove.co.uk/properties/57610178
 2026-10-30T15:21+00:00,Bethnal Green,2300,1,,,"Kay Street, London, E2",Now,Unfurnished,"OpenRent, London",https://www.rightmove.co.uk/properties/94948899
 2026-10-30T15:51+00:00,Walthamstow,2400,2,,,"Dukes Road, London",Ask agent,"Furnished or unfurnished, landlord is flexible","Right Now Residential, London",https://www.rightmove.co.uk/properties/94950858
+2026-10-30T16:51+00:00,Walthamstow,2400,1,56,listing,11 Selborne Road | London E17,Ask agent,Furnished,"Flagstones Property Group, London",https://www.rightmove.co.uk/properties/94956750
+2026-10-30T16:51+00:00,Walthamstow,2300,1,60,listing,"6 Vanguard Way, Blackhorse Road | London E17",Ask agent,Furnished,"Flagstones Property Group, London",https://www.rightmove.co.uk/properties/94955883
