@@ -5104,6 +5104,11 @@
       "first_seen": "2026-11-02T18:21+00:00",
       "area": "Forest Gate",
       "pcm": 2400
+    },
+    "95030301": {
+      "first_seen": "2026-11-02T18:50+00:00",
+      "area": "Bethnal Green",
+      "pcm": 2300
     }
   },
   "seeded_areas": [
@@ -5116,8 +5121,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 59,
-    "sent": 22,
+    "checks": 60,
+    "sent": 23,
     "skipped": 15
   },
   "last_summary": "2026-11-02"
