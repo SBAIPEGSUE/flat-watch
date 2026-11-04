@@ -5229,6 +5229,11 @@
       "first_seen": "2026-11-03T19:30+00:00",
       "area": "Stoke Newington",
       "pcm": 2000
+    },
+    "95086761": {
+      "first_seen": "2026-11-04T06:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2500
     }
   },
   "seeded_areas": [
@@ -5245,5 +5250,7 @@
     "sent": 21,
     "skipped": 0
   },
-  "last_summary": "2026-11-03"
+  "last_summary": "2026-11-03",
+  "blocked_level": 1,
+  "blocked_until": 1793773590.7299004
 }
