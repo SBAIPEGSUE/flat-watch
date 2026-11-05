@@ -5594,6 +5594,66 @@
       "first_seen": "2026-11-05T14:01+00:00",
       "area": "Bethnal Green",
       "pcm": 1900
+    },
+    "95156640": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2300
+    },
+    "95156634": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2150
+    },
+    "95156628": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2095
+    },
+    "95156625": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2210
+    },
+    "95156613": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2530
+    },
+    "95156610": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2500
+    },
+    "95156604": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 3554
+    },
+    "95156637": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2230
+    },
+    "95156619": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 2535
+    },
+    "95156598": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Walthamstow",
+      "pcm": 3505
+    },
+    "95155920": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Stoke Newington",
+      "pcm": 1842
+    },
+    "95156091": {
+      "first_seen": "2026-11-05T14:10+00:00",
+      "area": "Bethnal Green",
+      "pcm": 2500
     }
   },
   "seeded_areas": [
@@ -5606,9 +5666,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 31,
-    "sent": 3,
-    "skipped": 14
+    "checks": 32,
+    "sent": 9,
+    "skipped": 20
   },
   "last_summary": "2026-11-05"
 }
