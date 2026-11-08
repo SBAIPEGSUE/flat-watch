@@ -6040,10 +6040,6 @@
     "Leytonstone",
     "Leyton"
   ],
-  "day": {
-    "checks": 108,
-    "sent": 4,
-    "skipped": 2
-  },
-  "last_summary": "2026-11-07"
+  "day": {},
+  "last_summary": "2026-11-08"
 }
