@@ -6294,6 +6294,11 @@
       "first_seen": "2026-11-09T21:20+00:00",
       "area": "Leytonstone",
       "pcm": 2200
+    },
+    "95297826": {
+      "first_seen": "2026-11-10T06:20+00:00",
+      "area": "Bow",
+      "pcm": 1995
     }
   },
   "seeded_areas": [
@@ -6306,8 +6311,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 91,
-    "sent": 21,
+    "checks": 92,
+    "sent": 22,
     "skipped": 15
   },
   "last_summary": "2026-11-09"
