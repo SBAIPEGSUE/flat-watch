@@ -6659,6 +6659,11 @@
       "first_seen": "2026-11-11T14:31+00:00",
       "area": "Walthamstow",
       "pcm": 2450
+    },
+    "95368119": {
+      "first_seen": "2026-11-11T14:50+00:00",
+      "area": "Bethnal Green",
+      "pcm": 2500
     }
   },
   "seeded_areas": [
@@ -6671,8 +6676,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 34,
-    "sent": 17,
+    "checks": 35,
+    "sent": 18,
     "skipped": 15
   },
   "last_summary": "2026-11-11"
