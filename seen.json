@@ -7339,6 +7339,31 @@
       "first_seen": "2026-11-16T16:11+00:00",
       "area": "Bethnal Green",
       "pcm": 2400
+    },
+    "95532240": {
+      "first_seen": "2026-11-16T16:50+00:00",
+      "area": "Stoke Newington",
+      "pcm": 1850
+    },
+    "95531502": {
+      "first_seen": "2026-11-16T16:50+00:00",
+      "area": "Walthamstow",
+      "pcm": 2295
+    },
+    "95531778": {
+      "first_seen": "2026-11-16T16:50+00:00",
+      "area": "Walthamstow",
+      "pcm": 2300
+    },
+    "95524866": {
+      "first_seen": "2026-11-16T16:50+00:00",
+      "area": "Walthamstow",
+      "pcm": 2350
+    },
+    "95533221": {
+      "first_seen": "2026-11-16T16:50+00:00",
+      "area": "Leytonstone",
+      "pcm": 2350
     }
   },
   "seeded_areas": [
@@ -7351,9 +7376,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 42,
-    "sent": 12,
-    "skipped": 1
+    "checks": 43,
+    "sent": 16,
+    "skipped": 2
   },
   "last_summary": "2026-11-16"
 }
