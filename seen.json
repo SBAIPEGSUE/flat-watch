@@ -7944,6 +7944,16 @@
       "first_seen": "2026-11-19T16:30+00:00",
       "area": "Bethnal Green",
       "pcm": 2250
+    },
+    "95663166": {
+      "first_seen": "2026-11-19T16:40+00:00",
+      "area": "Stoke Newington",
+      "pcm": 2000
+    },
+    "95663406": {
+      "first_seen": "2026-11-19T16:40+00:00",
+      "area": "Walthamstow",
+      "pcm": 2375
     }
   },
   "seeded_areas": [
@@ -7956,9 +7966,9 @@
     "Leyton"
   ],
   "day": {
-    "checks": 45,
-    "sent": 16,
-    "skipped": 6
+    "checks": 46,
+    "sent": 17,
+    "skipped": 7
   },
   "last_summary": "2026-11-19"
 }
