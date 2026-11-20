@@ -8099,6 +8099,11 @@
       "first_seen": "2026-11-20T15:01+00:00",
       "area": "Walthamstow",
       "pcm": 2280
+    },
+    "95701773": {
+      "first_seen": "2026-11-20T15:40+00:00",
+      "area": "Walthamstow",
+      "pcm": 2350
     }
   },
   "seeded_areas": [
@@ -8111,8 +8116,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 39,
-    "sent": 11,
+    "checks": 40,
+    "sent": 12,
     "skipped": 8
   },
   "last_summary": "2026-11-20"
