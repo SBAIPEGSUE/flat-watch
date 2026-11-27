@@ -9144,6 +9144,11 @@
       "first_seen": "2026-11-27T15:01+00:00",
       "area": "Stoke Newington",
       "pcm": 1825
+    },
+    "22748909": {
+      "first_seen": "2026-11-27T15:10+00:00",
+      "area": "Bow",
+      "pcm": 2300
     }
   },
   "seeded_areas": [
@@ -9156,8 +9161,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 37,
-    "sent": 6,
+    "checks": 38,
+    "sent": 7,
     "skipped": 9
   },
   "last_summary": "2026-11-27"
