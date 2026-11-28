@@ -9229,6 +9229,11 @@
       "first_seen": "2026-11-28T10:40+00:00",
       "area": "Walthamstow",
       "pcm": 2350
+    },
+    "95945232": {
+      "first_seen": "2026-11-28T13:01+00:00",
+      "area": "Bow",
+      "pcm": 2400
     }
   },
   "seeded_areas": [
@@ -9241,8 +9246,8 @@
     "Leyton"
   ],
   "day": {
-    "checks": 24,
-    "sent": 2,
+    "checks": 25,
+    "sent": 3,
     "skipped": 0
   },
   "last_summary": "2026-11-28"
